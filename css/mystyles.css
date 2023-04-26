@@ -1,0 +1,51 @@
+.common{
+    font-style: oblique;
+    color: rgb(46, 50, 50);
+}
+
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+.subtitle{
+    font-weight: lighter;
+}
+
+.caption{
+    text-decoration: underline;
+}
+
+.subheading{
+    font-style: italic;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(236, 214, 214);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+}
+
+.mavs{
+    font-size: xx-large;
+    font-weight: 800;
+    color: darkolivegreen;
+}
+
+.special{
+    color: blue;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
